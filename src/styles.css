@@ -42,6 +42,9 @@ p {
   margin-bottom: 30px;
 }
 
+.hero {
+  background-color: #cef0f5;
+}
 .launch-app-button {
   color: white;
   text-decoration: none;
