@@ -44,6 +44,7 @@ p {
 
 .hero {
   background-color: #cef0f5;
+  padding-bottom: 24px;
 }
 .hero h2 {
   padding-top: 24px;
