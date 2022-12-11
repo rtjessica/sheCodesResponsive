@@ -45,6 +45,9 @@ p {
 .hero {
   background-color: #cef0f5;
 }
+.hero h2 {
+  padding-top: 24px;
+}
 .launch-app-button {
   color: white;
   text-decoration: none;
