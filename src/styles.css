@@ -29,6 +29,7 @@ h3 {
 img {
   border-radius: 10px;
   max-width: 100px;
+  background-color: var(--background-color);
 }
 button {
   color: white;
@@ -43,7 +44,7 @@ p {
 }
 
 .hero {
-  background-color: #cef0f5;
+  background-color: var(--background-color);
   padding-bottom: 24px;
 }
 .hero h2 {
