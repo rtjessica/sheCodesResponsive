@@ -76,7 +76,6 @@ p {
   margin-right: 60px;
   padding: 20px;
   padding-bottom: 40px;
-  box-shadow: 5px 10px 15px var(--shadow-color);
 }
 .about-introduction {
   display: flex;
