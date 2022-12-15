@@ -61,8 +61,8 @@ p {
 }
 
 .buttons {
-  display: flex;
-  justify-content: space-evenly;
+  display: block;
+  margin: 0;
 }
 
 .about-button {
