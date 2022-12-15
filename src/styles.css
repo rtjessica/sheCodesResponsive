@@ -81,11 +81,7 @@ p {
   display: flex;
 }
 .about-intro {
-  font-size: 15px;
-  flex: 1;
-  padding: 20px;
-  border-radius: 10px;
-  margin: 15px;
+  text-align: left;
   background-color: var(--background-color);
 }
 .email-link {
