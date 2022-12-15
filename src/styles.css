@@ -10,17 +10,18 @@ body {
   text-align: center;
   color: var(--primary-color);
   font-family: "Josefin Sans", sans-serif;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 h1 {
   color: var(--accent-color);
-  font-family: "Poppins", sans-serif;
+  font-family: "Source Code Pro", monospace;
   margin-bottom: 0;
   margin-top: 5;
 }
 
 h2 {
+  font-family: "Source Code Pro", monospace;
   padding-bottom: 0px;
   margin-bottom: 0;
 }
@@ -42,6 +43,10 @@ button {
 }
 p {
   margin-bottom: 30px;
+}
+
+.navigation {
+  font-family: "Source Code Pro", monospace;
 }
 
 .hero {
