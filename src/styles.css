@@ -83,7 +83,7 @@ p {
 .about-intro {
   text-align: left;
   background-color: var(--background-color);
-  margin-bottom: 24px;
+  padding-bottom: 50px;
 }
 .email-link {
   text-decoration: none;
