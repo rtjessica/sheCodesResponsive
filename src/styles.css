@@ -123,4 +123,5 @@ p {
 .work-inquiry-box {
   font-family: "Poppins", sans-serif;
   background-color: var(--background-color);
+  padding-top: 30px;
 }
