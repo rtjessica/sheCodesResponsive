@@ -112,3 +112,7 @@ p {
 .footer-container {
   text-align: center;
 }
+
+.footer-icons {
+  padding: 30px 0;
+}
