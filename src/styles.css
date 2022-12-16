@@ -111,6 +111,8 @@ p {
 }
 .footer-container {
   text-align: center;
+  display: block;
+  margin: 0;
 }
 
 .footer-icons {
