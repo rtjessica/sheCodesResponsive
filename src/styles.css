@@ -130,4 +130,6 @@ p {
   background-color: var(--background-color);
   padding-top: 30px;
   border-radius: 5px;
+  margin-left: 90px;
+  margin-right: 90px;
 }
