@@ -119,3 +119,8 @@ p {
   background-color: var(--background-color);
   border-radius: 50%;
 }
+
+.work-inquiry-box {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--background-color);
+}
