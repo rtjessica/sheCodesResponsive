@@ -114,5 +114,8 @@ p {
 }
 
 .footer-icons {
-  margin: 0 30px;
+  margin: 0 20px;
+  padding: 10px 15px;
+  background-color: var(--background-color);
+  border-radius: 50%;
 }
