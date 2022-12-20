@@ -121,6 +121,7 @@ p {
   text-align: center;
   display: block;
   margin: 0;
+  padding-bottom: 20px;
 }
 
 .footer-icons {
